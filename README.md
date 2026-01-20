@@ -40,7 +40,7 @@ the repository is public for portfolio visibility, but full implementation detai
 - HTML / CSS (policy + support pages)
 
 ## links
-- app store: https://apps.apple.com/us/app/graispect/id6754794501
+- app store: 
 - website: https://graispect.com
 - privacy: https://graispect.com/privacy
 - terms: https://graispect.com/terms
