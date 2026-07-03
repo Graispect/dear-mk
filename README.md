@@ -1,4 +1,4 @@
-# to n from mk — letter-writing app
+# dear mk — letter-writing app
 
 a letter-writing experience.
 choose the type.
