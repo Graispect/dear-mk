@@ -10,7 +10,7 @@ this is not a journal.
 this is a moment.
 
 ## concept
-to n from mk turns structured answers into letters written with my words.
+dear mk turns structured answers into letters written with my words.
 cryptic and intentional.
 
 ## what i worked on
